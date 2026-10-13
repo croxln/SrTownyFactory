@@ -7,6 +7,7 @@
 [![PaperMC](https://img.shields.io/badge/PaperMC-1.21.x-1F8CEB?style=for-the-badge&logo=minecraft&logoColor=white)](https://papermc.io/)
 [![Version](https://img.shields.io/badge/Version-3.0.0-38BDF8?style=for-the-badge)](https://github.com/croxln/SrTownyFactory)
 [![Status](https://img.shields.io/badge/Status-🟢_Active_Production-4ADE80?style=for-the-badge)](https://github.com/croxln/SrTownyFactory)
+[![Stars](https://img.shields.io/github/stars/croxln/SrTownyFactory?style=for-the-badge&color=FACC15&logo=github)](https://github.com/croxln/SrTownyFactory/stargazers)
 [![License](https://img.shields.io/badge/License-Proprietary-EF4444?style=for-the-badge)](https://github.com/croxln/SrTownyFactory)
 
 <p align="center">
@@ -75,6 +76,16 @@
 - **Spatial Lookups:** $O(1)$ spatial chunk hashing keying `world:chunkX:chunkZ`
 - **Text & Components:** Kyori Adventure MiniMessage with clean small-caps formatting
 - **Dependencies:** SrTowny (Core Fork), Towny Advanced, Vault, Squaremap
+
+---
+
+### 📈 Repository Star History
+
+<div align="center">
+
+[![Star History Chart](https://api.star-history.com/svg?repos=croxln/SrTownyFactory&type=Date&theme=dark)](https://star-history.com/#croxln/SrTownyFactory&Date)
+
+</div>
 
 ---
 
